@@ -30,7 +30,7 @@ A animação de entrada foi feita com JavaScript usando a API `IntersectionObser
 6. Aguarde a publicação. O GitHub mostrará o endereço do site na área **Settings > Pages**.
 
 ## Links de entrega
-- Repositório GitHub: `COLE_AQUI_O_LINK_DO_REPOSITORIO`
+- Repositório GitHub: `(https://github.com/gusprado15-ctrl/Web.git)`
 - Site publicado (GitHub Pages): `COLE_AQUI_O_LINK_DO_SITE`
 
 ## Personalização antes da entrega
